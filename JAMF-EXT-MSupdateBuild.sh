@@ -2,6 +2,11 @@
 #
 ###############################################################################################################################################
 #
+# ABOUT THIS PROGRAM
+#
+#	JAMF-EXT-MSupdateBuild.sh
+#	https://github.com/Headbolt/JAMF-EXT-MSupdateBuild
+#
 #   This Script is designed for use in JAMF as an Extension Attribute
 #		with a type set of "Integer"
 #
